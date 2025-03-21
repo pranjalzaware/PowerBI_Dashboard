@@ -17,7 +17,7 @@ To analyze key financial metrics, spending trends, and profit insights to enhanc
 - Regional Profitability = Analyzes which regions contribute the most to profit.
 - Customer Profitability = Evaluates which customers or customer segments generate the highest profit.
 
-- Dashboard Interaction <a href="https://github.com/pranjalzaware/PowerBI_Dashboard/blob/main/Profit%20Analysis%20Project_Dashboard.pbix">View Dashboard</a>
+Dashboard Interaction <a href="https://github.com/pranjalzaware/PowerBI_Dashboard/blob/main/Profit%20Analysis%20Project_Dashboard.pbix">View Dashboard</a>
 
 ## Process
 1.Data Collection
