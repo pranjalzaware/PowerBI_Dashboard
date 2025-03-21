@@ -17,3 +17,28 @@ The objective of this Power BI dashboard is to analyze and visualize the profit 
 - Regional Profitability = Analyzes which regions contribute the most to profit.
 - Customer Profitability = Evaluates which customers or customer segments generate the highest profit.
 
+- Dashboard Interaction <a href="https://github.com/pranjalzaware/PowerBI_Dashboard/blob/main/Profit%20Analysis%20Project_Dashboard.pbix">View Dashboard</a>
+
+## Process
+1.Data Collection
+- Gather sales, revenue, expense, and profit data from different sources (ERP, CRM, Excel, or databases).
+
+2.Data Cleaning & Transformation
+- Remove duplicates, handle missing values, and standardize formats.
+- Convert raw data into structured tables for analysis.
+
+3.Data Modeling
+- Establish relationships between different tables (Sales, Expenses, Products, Regions, etc.).
+- Create calculated columns and measures using DAX (if needed).
+
+4.Dashboard Design & Development
+- Select key KPIs and visuals (charts, tables, filters, etc.).
+- Design an interactive Power BI dashboard for better insights.
+
+5.Analysis & Insights
+- Identify trends in profit, revenue, and expenses.
+- Compare performance across products, regions, and time periods.
+
+6.Report Validation & Testing
+- Check for data accuracy and consistency.
+- Ensure all visualizations display the correct insights.
