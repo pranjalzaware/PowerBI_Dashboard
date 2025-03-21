@@ -43,6 +43,9 @@ Dashboard Interaction <a href="https://github.com/pranjalzaware/PowerBI_Dashboar
 - Check for data accuracy and consistency.
 - Ensure all visualizations display the correct insights.
 
+## Dashboard
+![Screenshot 2025-03-21 173943](https://github.com/user-attachments/assets/af76bc63-07a6-422a-95ce-afb642abe412)
+
 ## Project Insights
 - Revenue Growth – Revenue is increasing, but expenses impact overall profitability.
 - Profit Margins – Some products/services have low margins, requiring cost optimization.
