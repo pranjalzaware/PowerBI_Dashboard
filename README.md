@@ -6,16 +6,16 @@ To analyze key financial metrics, spending trends, and profit insights to enhanc
 - <a href="https://github.com/pranjalzaware/PowerBI_Dashboard/blob/main/data%20set_Profit%20Analysis.csv">Dataset</a>
 
 ## KPIs
-- Total Revenue = Measures the total income generated from sales.
-- Total Expenses = Tracks the total operational and product-related costs.
-- Net Profit = Calculates profit after deducting all expenses (Revenue - Expenses).
-- Profit Margin (%) = Shows the percentage of revenue that turns into profit. (Net Profit / Revenue) × 100
-- Revenue Growth Rate (%) = Compares current revenue with the previous period to analyze business growth.
-- Profit Growth Rate (%) = Measures the increase or decrease in profit over time.
-- Top Performing Products = Identifies the most profitable products.
-- Low Performing Products = Highlights products with low profitability or losses.
-- Regional Profitability = Analyzes which regions contribute the most to profit.
-- Customer Profitability = Evaluates which customers or customer segments generate the highest profit.
+- Total Revenue - Measures the total income generated from sales.
+- Total Expenses - Tracks the total operational and product-related costs.
+- Net Profit - Calculates profit after deducting all expenses (Revenue - Expenses).
+- Profit Margin (%) - Shows the percentage of revenue that turns into profit. (Net Profit / Revenue) × 100
+- Revenue Growth Rate (%) - Compares current revenue with the previous period to analyze business growth.
+- Profit Growth Rate (%) - Measures the increase or decrease in profit over time.
+- Top Performing Products - Identifies the most profitable products.
+- Low Performing Products - Highlights products with low profitability or losses.
+- Regional Profitability - Analyzes which regions contribute the most to profit.
+- Customer Profitability - Evaluates which customers or customer segments generate the highest profit.
 
 Dashboard Interaction <a href="https://github.com/pranjalzaware/PowerBI_Dashboard/blob/main/Profit%20Analysis%20Project_Dashboard.pbix">View Dashboard</a>
 
